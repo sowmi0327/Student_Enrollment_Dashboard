@@ -73,7 +73,7 @@ The dataset includes:
 
 ### 📌 Overview Dashboard
 
-![Overview Dashboard](overview.png)
+![Overview Dashboard](Overview.png)
 
 ### 📌 Performance Dashboard
 
